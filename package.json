@@ -16,7 +16,7 @@
     "node-orm2",
     "mysql"
   ],
-  "author": "bassoman",
+  "author": "Jonathan Lancelle",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/bassoman/nodeORMTesting/issues"
